@@ -1,0 +1,142 @@
+[
+{
+    "model": "tutor.error",
+    "pk": 1,
+    "fields": {
+        "user": "dcc44822-4b8d-43cf-be83-fb510ea07bae",
+        "errorCategory": 1,
+        "errorSubCategory": 1,
+        "timestamp_utc": "2024-10-02T08:45:42.770Z"
+    }
+},
+{
+    "model": "tutor.error",
+    "pk": 2,
+    "fields": {
+        "user": "dcc44822-4b8d-43cf-be83-fb510ea07bae",
+        "errorCategory": 1,
+        "errorSubCategory": 2,
+        "timestamp_utc": "2024-10-02T08:46:02.020Z"
+    }
+},
+{
+    "model": "tutor.error",
+    "pk": 3,
+    "fields": {
+        "user": "dcc44822-4b8d-43cf-be83-fb510ea07bae",
+        "errorCategory": 1,
+        "errorSubCategory": 3,
+        "timestamp_utc": "2024-10-02T08:46:05.064Z"
+    }
+},
+{
+    "model": "tutor.error",
+    "pk": 4,
+    "fields": {
+        "user": "dcc44822-4b8d-43cf-be83-fb510ea07bae",
+        "errorCategory": 1,
+        "errorSubCategory": 3,
+        "timestamp_utc": "2024-10-02T08:46:19.347Z"
+    }
+},
+{
+    "model": "tutor.error",
+    "pk": 5,
+    "fields": {
+        "user": "dcc44822-4b8d-43cf-be83-fb510ea07bae",
+        "errorCategory": 1,
+        "errorSubCategory": 1,
+        "timestamp_utc": "2024-10-02T08:46:23.581Z"
+    }
+},
+{
+    "model": "tutor.error",
+    "pk": 6,
+    "fields": {
+        "user": "dcc44822-4b8d-43cf-be83-fb510ea07bae",
+        "errorCategory": 1,
+        "errorSubCategory": 1,
+        "timestamp_utc": "2024-10-02T08:46:26.486Z"
+    }
+},
+{
+    "model": "tutor.error",
+    "pk": 7,
+    "fields": {
+        "user": "dcc44822-4b8d-43cf-be83-fb510ea07bae",
+        "errorCategory": 1,
+        "errorSubCategory": 1,
+        "timestamp_utc": "2024-10-02T08:46:27.165Z"
+    }
+},
+{
+    "model": "tutor.error",
+    "pk": 8,
+    "fields": {
+        "user": "dcc44822-4b8d-43cf-be83-fb510ea07bae",
+        "errorCategory": 2,
+        "errorSubCategory": 5,
+        "timestamp_utc": "2024-10-02T08:46:57.204Z"
+    }
+},
+{
+    "model": "tutor.error",
+    "pk": 9,
+    "fields": {
+        "user": "dcc44822-4b8d-43cf-be83-fb510ea07bae",
+        "errorCategory": 2,
+        "errorSubCategory": 7,
+        "timestamp_utc": "2024-10-02T08:47:04.059Z"
+    }
+},
+{
+    "model": "tutor.error",
+    "pk": 10,
+    "fields": {
+        "user": "dcc44822-4b8d-43cf-be83-fb510ea07bae",
+        "errorCategory": 3,
+        "errorSubCategory": 9,
+        "timestamp_utc": "2024-10-02T08:47:39.668Z"
+    }
+},
+{
+    "model": "tutor.error",
+    "pk": 11,
+    "fields": {
+        "user": "dcc44822-4b8d-43cf-be83-fb510ea07bae",
+        "errorCategory": 3,
+        "errorSubCategory": 9,
+        "timestamp_utc": "2024-10-01T08:48:14Z"
+    }
+},
+{
+    "model": "tutor.error",
+    "pk": 12,
+    "fields": {
+        "user": "dcc44822-4b8d-43cf-be83-fb510ea07bae",
+        "errorCategory": 3,
+        "errorSubCategory": 9,
+        "timestamp_utc": "2024-09-29T08:48:15Z"
+    }
+},
+{
+    "model": "tutor.error",
+    "pk": 13,
+    "fields": {
+        "user": "dcc44822-4b8d-43cf-be83-fb510ea07bae",
+        "errorCategory": 3,
+        "errorSubCategory": 9,
+        "timestamp_utc": "2024-09-30T08:48:16Z"
+    }
+},
+{
+    "model": "tutor.error",
+    "pk": 14,
+    "fields": {
+        "user": "dcc44822-4b8d-43cf-be83-fb510ea07bae",
+        "errorCategory": 3,
+        "errorSubCategory": 9,
+        "timestamp_utc": "2024-09-30T08:48:16Z"
+    }
+}
+]
